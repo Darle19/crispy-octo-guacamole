@@ -1,0 +1,1 @@
+[2024-07-02T15:55:23.444030+00:00] feed_processor.ERROR: Error processing file: Error inserting item: An exception occurred while executing a query: SQLSTATE[HY000]: General error: 1 no such table: feed_items [] []
